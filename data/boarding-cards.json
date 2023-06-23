@@ -1,0 +1,46 @@
+[
+    {
+      "Departure": "Stockholm",
+      "Arrival": "New York",
+      "Transportation": "Plane",
+      "TransportationNumber": "SK22",
+      "Seat": "7B",
+      "Gate": "22"
+    },
+    {
+      "Departure": "Madrid",
+      "Arrival": "Barcelona",
+      "Transportation": "Train",
+      "TransportationNumber": "78A",
+      "Seat": "45B"
+    },
+    {
+      "Departure": "Gerona Airport",
+      "Arrival": "Stockholm",
+      "Transportation": "Plane",
+      "TransportationNumber": "SK455",
+      "Seat": "3A",
+      "Gate": "45B",
+      "Baggage": "334"
+    },
+    {
+      "Departure": "Barcelona",
+      "Arrival": "Gerona Airport",
+      "Transportation": "Bus"
+    },
+    {
+      "Departure": "New York",
+      "Arrival": "Mumbai",
+      "Transportation": "Plane",
+      "TransportationNumber": "EK502",
+      "Seat": "24B",
+      "Gate": "1A",
+      "Baggage":"20"
+    },
+    {
+      "Departure": "Mumbai",
+      "Arrival": "New Zealand",
+      "Transportation": "Cruise",
+      "Seat": "30G"
+    }
+]

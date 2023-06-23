@@ -1,0 +1,18 @@
+{
+    "name": "kenny/trip-sorter",
+    "description": "App to sort boarding cards.",
+    "autoload": {
+        "psr-4": {
+            "Kenny\\TripSorter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RakeshKen29",
+            "email": "rakesh.nagarkoti@liquiloans.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
