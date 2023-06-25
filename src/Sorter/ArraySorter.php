@@ -5,11 +5,6 @@ class ArraySorter implements Sortable
 {
     private $sorterdBoardingCardsArray = [];
 
-    public function __construct()
-    {
-
-    }
-
     public function sort($unsortedBoardingCardsArray = [])
     {
         foreach($unsortedBoardingCardsArray as $singleCard)
